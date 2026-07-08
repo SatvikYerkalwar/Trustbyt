@@ -8,8 +8,7 @@ import {
   Sparkles,
 } from "lucide-react";
 import { SectionHeader } from "./Features";
-import founderPhotoAsset from "@/assets/founder-satvik.jpg.asset.json";
-const founderPhoto = founderPhotoAsset.url;
+import founderPhoto from "@/assets/founder-satvik.jpg";
 
 const certifications = [
   { name: "Cisco", color: "from-cyan-400 to-blue-500" },
